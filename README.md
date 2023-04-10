@@ -1,4 +1,3 @@
-# test1
 # Computer Programming Club-Linux CLI GIT/github tutorial repository
 
 https://github.com/signup get a free github account if you don't already have one. Use your OFS email account preferably.
