@@ -1,0 +1,14 @@
+mkdir ~/git/myfirstrepo
+cd ~/git/myfirstrepo
+touch yourname.txt
+git init
+git add .
+git commit -m "first upload"
+touch computerprogrammingclub.txt
+git add .
+git commit -m "add cpc text file"
+git log
+git remote add origin [copied web address from green code button/local/https]
+git branch -M main
+git push -u origin main
+git status
