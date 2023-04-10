@@ -5,7 +5,7 @@ https://github.com/signup get a free github account if you don't already have on
 <code> mkdir ~/ git </code> <br/>
 <code> cd ~/git </code> <br/>
 <code> git clone https://github.com/mrdv-2791/test1.git </code> <br/>
-<code> https://github.com/RehanSaeed/Bash-Cheat-Sheet.git </code> <br/>
+<code> git clone https://github.com/RehanSaeed/Bash-Cheat-Sheet.git </code> <br/>
 <code> ls -lah </code> <br/>
 <code> cd test1 </code> <br/>
 <code> ls -lah </code> <br/>
