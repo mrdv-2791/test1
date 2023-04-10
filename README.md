@@ -2,14 +2,14 @@
 
 https://github.com/signup get a free github account if you don't already have one. Use your OFS email account preferably.
 
-mkdir ~/ git
-cd ~/git
-git clone https://github.com/mrdv-2791/test1.git
-ls -lah
-cd test1
-ls -lah
-less instructions.txt
-cd ..
+<code> mkdir ~/ git </code> <br/>
+<code> cd ~/git </code> <br/>
+<code> git clone https://github.com/mrdv-2791/test1.git </code> <br/>
+<code> ls -lah </code> <br/>
+<code> cd test1 </code> <br/>
+<code> ls -lah </code> <br/>
+<code> less instructions.txt </code> <br/>
+<code> cd .. </code> <br/>
 
 Note that <b><i>main</i></b> has replaced <i>master</i> (shown in the png summary image) as the default branch for github repositories.
 
